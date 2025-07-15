@@ -6,7 +6,7 @@ This repository contains a **Jupyter Notebook** with code implementations for al
 
 submitted to the **North American Power Symposium (NAPS) 2025**.
 
-## 📓 Notebook
+## 📓 Notebook Details
 
 - `apande26.ipynb`
 
