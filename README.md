@@ -23,7 +23,7 @@ The primary objective of this research is to employ a non-parametric and computa
 
 ## 📊 Results
 
-The notebook generates plots showing how **RMSE varies with different sequence lengths and lag steps**, helping analyze model performance.
+The notebook generates plots showing how **RMSE varies with different sequence lengths of endogenous and exogenous variables**, helping analyze model performance.
 
 ## ⚙️ Requirements
 
