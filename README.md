@@ -54,13 +54,13 @@ pip install jupyter numpy pandas scikit-learn matplotlib seaborn
     ```
 4. Open `apande26.ipynb` and run all cells.
 
-## 📁 Data
+## 📁 Dataset
 
-The required data files are included in the repository under the `data/` folder.
+The required data files are included in this repository under the `data/` folder.
 
-This repository uses the [Micro Gas Turbine Electrical Energy Prediction] dataset from the UCI Machine Learning Repository:
+This repository uses the **Micro Gas Turbine Electrical Energy Prediction** dataset from the UCI Machine Learning Repository:
 
-P. Bielski and D. Kottonau. "Micro Gas Turbine Electrical Energy Prediction," UCI Machine Learning Repository, 2024. [Online]. Available: https://doi.org/10.24432/C58S4T.
+> **P. Bielski and D. Kottonau**, *Micro Gas Turbine Electrical Energy Prediction*, UCI Machine Learning Repository, 2024. Available at: [https://doi.org/10.24432/C58S4T](https://doi.org/10.24432/C58S4T).
 
 Please cite this dataset if you use the data in your research.
 
