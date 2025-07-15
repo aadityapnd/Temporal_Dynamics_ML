@@ -58,6 +58,8 @@ pip install jupyter numpy pandas scikit-learn matplotlib seaborn
 
 The required data files are included in the repository under the `data/` folder.
 
+P. Bielski and D. Kottonau. "Micro Gas Turbine Electrical Energy Prediction," UCI Machine Learning Repository, 2024. [Online]. Available: https://doi.org/10.24432/C58S4T.
+
 ## ✏️ Author
 
 - **Name:** Aaditya Pandey
